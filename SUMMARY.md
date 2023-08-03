@@ -8,6 +8,7 @@
 * [2⃣ Multi-chain support](features/multi-chain-support.md)
 * [3⃣ $OPAD Staking](features/usdopad-staking.md)
 * [4⃣ Vote listing](features/vote-listing.md)
+* [5⃣ Asset Manager (Portfolio)](features/asset-manager-portfolio.md)
 
 ## 👨🚀 Tokenomics & roadmap
 

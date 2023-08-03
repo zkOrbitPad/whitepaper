@@ -11,8 +11,8 @@
 
 ## 👨🚀 Tokenomics & roadmap
 
-* [🚀 Tokenomics](tokenomics-and-roadmap/tokenomics.md)
-* [🛣 Roadmap](tokenomics-and-roadmap/roadmap.md)
+* [🚀 Tokenomics](airdrop-and-roadmap/airdrop.md)
+* [🛣 Roadmap](airdrop-and-roadmap/roadmap.md)
 
 ## 👽 Collecting NFT's
 

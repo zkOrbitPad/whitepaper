@@ -9,10 +9,10 @@
 * [3⃣ $OPAD Staking](features/usdopad-staking.md)
 * [4⃣ Vote listing](features/vote-listing.md)
 
-## 👨🚀 Airdrop & roadmap
+## 👨🚀 Tokenomics & roadmap
 
-* [🚀 Airdrop](airdrop-and-roadmap/airdrop.md)
-* [🛣 Roadmap](airdrop-and-roadmap/roadmap.md)
+* [🚀 Tokenomics](tokenomics-and-roadmap/tokenomics.md)
+* [🛣 Roadmap](tokenomics-and-roadmap/roadmap.md)
 
 ## 👽 Collecting NFT's
 

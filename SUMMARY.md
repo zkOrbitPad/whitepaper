@@ -14,6 +14,12 @@
 * [🚀 Airdrop](airdrop-and-roadmap/airdrop.md)
 * [🛣 Roadmap](airdrop-and-roadmap/roadmap.md)
 
+## 👽 Collecting NFT's
+
+* [🪞 Mirror Announcement NFT's](collecting-nfts/mirror-announcement-nfts.md)
+* [🌜 Holders NFT](collecting-nfts/holders-nft.md)
+* [🪜 Leaderboard NFT's](collecting-nfts/leaderboard-nfts.md)
+
 ## 👫 Community & Smart contract
 
 * [🔗 Community links](community-and-smart-contract/community-links.md)

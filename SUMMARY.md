@@ -12,6 +12,7 @@
 
 ## 👨🚀 Tokenomics & roadmap
 
+* [🌑 Airdrop Details](tokenomics-and-roadmap/airdrop-details.md)
 * [🚀 Tokenomics](airdrop-and-roadmap/airdrop.md)
 * [🛣 Roadmap](airdrop-and-roadmap/roadmap.md)
 

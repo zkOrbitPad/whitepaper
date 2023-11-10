@@ -21,7 +21,7 @@ This allocation will be distributed among various airdrop tasks and points. The 
 
 * **Total Supply:** 1,000,000,000 $OPAD
 * **Listing Price:** $0.007
-* **Circulating Supply:** 350,000,000 $OPAD
+* **Circulating Supply:** 400,000,000 $OPAD
 * **Market Cap:** $2,450,000
 
 We are thrilled about this airdrop event and can't wait to reward our community for their continued support. Keep an eye out for more updates and instructions on how to participate in this exciting opportunity!
